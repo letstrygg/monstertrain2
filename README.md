@@ -1,2 +1,11 @@
-# monstertrain2
+monstertrain2
+========
+Minimal Jekyll site using shared-jekyll-theme.
 
+Quick setup:
+1. Create repo named `monstertrain2` on GitHub.
+2. Push these files to the repo root.
+3. Create a repo called `shared-jekyll-theme` and push the theme folder contents there.
+4. In GitHub repo settings > Pages, set source to main branch / (root).
+5. Add custom domain: monstertrain2.com
+6. In Cloudflare, add a CNAME: Name = @  Target = letstrygg.github.io  (Proxy OFF / grey cloud)
